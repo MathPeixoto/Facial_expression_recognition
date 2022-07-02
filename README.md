@@ -1,9 +1,9 @@
-# Reconhecimento-de-expressoes
+# Facial expression recognition
 
-Nesse projeto desenvolvi um modelo de IA capaz de identificar quando uma pessoa está feliz, triste, surpresa, com raiva, com medo ou com expressão neutra.
-O modelo irá mostrar a expressão da pessoa gerando um vídeo.
+In this project I developed an AI model capable of identifying when a person is happy, sad, surprised, angry, afraid or with a neutral expression.
+The template will show the expression of the person generating a video.
 
-Os arquivos adicionais necessários para o treinamento da rede neural e para testar o modelo encontram-se nesse link:
+The other files required for training the neural network and for testing the model can be found at the link:
 - https://drive.google.com/file/d/1iUlKV1VWPqyJGVjty5Nd-oIyVO18Uzl3/view?usp=sharing
 
-Bastar descompactá-lo dentro do repositório desse projeto.
+Just unzip it inside the directory of this project.
